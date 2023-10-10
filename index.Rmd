@@ -5,6 +5,12 @@ date: "10/10/2023"
 output: html_document
 ---
 
+<style>
+    body { background-color: #E7D5CE; }
+    pre, pre:not([class]) { background-color: #E7D5CE; }
+</style>
+
+
 # formation support
 
 [Bash Bases](Formations/Bash_Bases.html)
