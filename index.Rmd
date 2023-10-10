@@ -1,7 +1,7 @@
 ---
 title: "Quick summary of my works"
 author: "Lieng TAING"
-date: "9/29/2020"
+date: "10/10/2023"
 output: html_document
 ---
 
@@ -17,5 +17,18 @@ output: html_document
 
 [Isoform presentation](Works/strngt_5372_8_start_14_stop_904_frame_2_flag_1_UNIPROT_sp_Q86U42_2_PABP2_HUMAN.html)
 
+## RNA seq analysis
 
-# personal works
+[RNA seq](Works/AnalysisRandom.html)
+
+## CNVs
+
+[CNV example](Works/CNV_Investigation_2.html)
+
+[CNV explortation](Works/CNV_Investigation.html)
+
+## Shiny apps
+
+[LD computing from phased VCF](https://lieng.shinyapps.io/ComputeLD/)
+
+[example file](Works/TEST.vcf "download")
